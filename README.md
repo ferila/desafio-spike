@@ -1,2 +1,2 @@
 # Instructions
-Open main notebook
+Open and run "main" notebook
